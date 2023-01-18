@@ -1,6 +1,6 @@
 ## About Me :
 
-- 🏢 I am currently working as a **Eletrical Engineer** at [HCL Technologies Lanka](https://hclsrilanka.com/contact-us/)
+- 🏢 I am currently working as a **Eletrical Engineer**
 - 🎓 Studies for **Eletrical Engineering** at [FMU](https://portal.fmu.br/cursos/graduacao/engenharia-eletrica/)
 - 🎓 Studies for **Web Development** at [Le Wagon - Batch #938](https://www.lewagon.com/)
 - 🏡'Lives in **São Paulo**
@@ -16,7 +16,7 @@
 
 <br>
 
-## What I am Good at 🧑‍💻 :
+## Skills 🧑‍💻 :
 
 <br>
 
@@ -27,13 +27,5 @@
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
 
 <img src="https://img.icons8.com/color/48/000000/npm.png"/>
-
-<br>
-
-## GitHub Stats 📈 :
-
-<br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnushkaWijegoonawardana97&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![AnushkaWijegoonawardana97 GitHub stats](https://github-readme-stats.vercel.app/api?username=AnushkaWijegoonawardana97&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaWijegoonawardana97&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) [![AnushkaWijegoonawardana97 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WinterWolf97&theme=algolia)](https://github.com/WinterWolf97/github-readme-stats)
 
 <br>
